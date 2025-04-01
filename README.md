@@ -13,9 +13,7 @@ This repository contains the code for a portfolio website featuring a clone of U
 
 ## 🛠️ Technologies Used
 - **HTML5**: Structuring the content.
-- **CSS3**: Styling with animations and responsive design.
-- **JavaScript**: Adding interactivity.
-- **React (optional)**: For component-based architecture.
+- **CSS3**: Styling with animations and responsive design..
 - **GitHub Pages**: Hosting the portfolio website.
 
 ## 📂 Repository Structure
